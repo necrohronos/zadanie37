@@ -1,0 +1,26 @@
+body {
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center
+}
+h1 {
+    font-family: 'Amatic SC', serif;
+    color: darkgoldenrod;
+    font-size: 5em;
+    text-shadow: 5px 5px 2px darkgrey;
+}
+#dodaj {
+    background-color: darkseagreen;
+    border: 0;
+    color: white;
+    height: 35px;
+    width: 50px;
+    border-radius: 5px;
+}
+#usun {
+    background-color: darkred;
+    border: 0;
+    color: white;
+    height: 35px;
+    width: 50px;
+    border-radius: 5px;
+}
